@@ -1,4 +1,3 @@
-# Project Journal: Calcify  
 ---
 title: "Calcify"
 author: "Bakr Mohamed"
