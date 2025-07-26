@@ -1,8 +1,8 @@
 # Project Journal: Calcify  
-**Project Name:** Calcify  
-**Created By:** Bakr Mohamed
-**Date Created:**  14/7/2025
-**Total Time Spent:** 65 hours  
+**Project Name: Calcify**   
+**Created By: Bakr Mohamed** 
+**Date Created: 14/7/2025**  
+**Total Time Spent: 65 hours **  
 
 ---
 
