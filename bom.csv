@@ -1,0 +1,12 @@
+Component, Purpose, Estimated Cost (USD), Link
+Raspberry Pi 3B Model B, Controls the valve and sensor logic, 75, https://www.ram-e-shop.com/ar/shop/raspberry-pi-3-raspberry-pi-3b-model-b-7067
+Breadboard, Prototyping the control circuit, 7.75, https://www.sparkfun.com/products/12615
+4 Gas Valves, Control airflow between chambers, 32, https://www.ebay.com/itm/132272425835
+4 MQ-135 Sensors, Detect harmful gases in air, 8, https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312
+Hydrochloric Acid (HCl), Converts CaCO₃ (eggshells) to Ca(OH)₂, 35, https://www.ubuy.com.eg/en/product/1OOQRHUO-0-1m-hydrochloric-acid-1l-excellent-for-chemistry-or-refinement-experiments-the-curated-chemical-col
+Electric Blowers (x2), Pushes air through purification unit, 60, https://www.jumia.com.eg/ct17010-blower-and-vacuum-cleaner-710w-crown-mpg175087.html
+Plastic Jars & Boxes, Gas containment & layering structure, 23, Local hardware/plastic supplier
+Mask Layers (Reusable), Dust filtration layer, 7, Local pharmacy/hardware
+Tubes & Connectors, Air channeling and sealing, 24, DIY store or plumbing supplier
+Mesh Sheets, Holds Ca(OH)₂ in neutralization zone, 9, Fabric or construction supply
+,,Total, 280.75
