@@ -117,17 +117,18 @@ Total Time Spent: 65 hours
 ---
 
 **Images:**  
-![alt text](P9e1.png) 
-![alt text](f1.jpg) 
-![alt text](f2.jpg) 
-![alt text](f3.jpg)
+![alt text](Pics/P9e1.png) 
+![alt text](Pics/f1.jpg) 
+![alt text](Pics/f2.jpg) 
+![alt text](Pics/f3.jpg)
 
 simulated sensors readings:
-![alt text](image.png)
+![alt text](Pics/image.png)
 
 expected results:
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](Pics/image-1.png)
+![alt text](Pics/image-2.png)
+![alt text](Pics/image-3.png)
+![alt text](Pics/image-4.png)
+![alt text](Pics/image-5.png)
+
