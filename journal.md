@@ -42,7 +42,7 @@ I broke it into layers:
 
 While modeling this in 3D, I kept catching myself zooming in way too much to make small adjustments that nobody else will probably notice — but I guess that’s the fun of doing it for yourself.  
 
-![3d pic pointing the chemicals chamber](f3.jpg)  
+![3d pic pointing the chemicals chamber](Pics/f3.jpg)  
 
 ---
 
@@ -69,11 +69,11 @@ Running simulations on yields and reaction times helped me get a better picture 
 
 Here are the simulation outputs I generated:  
 
-![carbon dioxide concentration over time](image-1.png)  
-![sulfur dioxide concentration over time](image-2.png)  
-![every gas results p1](image-3.png)  
-![every gas results p2](image-4.png)  
-![every gas results p3](image-5.png)  
+![Pics/carbon dioxide concentration over time](image-1.png)  
+![Pics/sulfur dioxide concentration over time](image-2.png)  
+![Pics/every gas results p1](image-3.png)  
+![Pics/every gas results p2](image-4.png)  
+![Pics/every gas results p3](image-5.png)  
 ---
 
 ## Day 6 – System Assembly Design (7 hours)  
@@ -82,7 +82,7 @@ Here are the simulation outputs I generated:
 This was about arranging everything in a logical way. I designed a rectangular box layout in the model, adding in airflow paths and compartments.  
 
 I decided on fans and seals for controlled airflow and even mocked up spaces for sensors like temperature and gas concentration readers. Even though I’m not building anything physical, it felt oddly satisfying to think about how someone *could* assemble it from these blueprints.  
-![how to assemble the chambers](f2.jpg)  
+![Pics/how to assemble the chambers](f2.jpg)  
 
 ---
 
@@ -90,7 +90,7 @@ I decided on fans and seals for controlled airflow and even mocked up spaces for
 **Date:** July 20  
 
 This was a “visuals day.” I made a poster that showed how Calcify works, along with diagrams and an environmental impact chart. It was fun to arrange the elements in a way that felt neat but still casual. I wasn’t aiming for a pitch — just something that could explain my idea to anyone curious.  
-![fully 3d colored](P9e1.png)  
+![Pics/fully 3d colored](P9e1.png)  
 
 ---
 
@@ -100,7 +100,7 @@ This was a “visuals day.” I made a poster that showed how Calcify works, alo
 This was pure simulation work. I ran airflow models to see how the gas would interact with the Ca(OH)₂ sheets and adjusted the geometry for better flow.  
 
 It was a bit like tweaking a video game level so everything moves just right — except here, it was for clean air. I also added an imaginary “saturation sensor” to let the system know when it’s time to replace the neutralizing sheets.  
-![Expected readings](image.png)  
+![Pics/Expected readings](image.png)  
 
 ---
 
@@ -110,6 +110,7 @@ It was a bit like tweaking a video game level so everything moves just right —
 The last stretch. I organized all my notes, models, and calculations into a tidy GitHub repo. I added final blueprints, reaction documentation, and sourcing spreadsheets. I also did one last review of the 3D model to make sure all parts aligned and looked coherent.  
 
 Even though it’s just a personal project, seeing everything neatly documented gave me a sense of closure. It’s satisfying to think that if I ever wanted to share this idea with someone, it’s ready to go.  
-![fully 3d](f1.jpg)  
+![Pics/fully 3d](f1.jpg)  
 
 ---
+
