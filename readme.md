@@ -25,10 +25,10 @@ Eggshells from nearby bakeries are chemically converted into **calcium hydroxide
 
 ##  Project Images
 
-![alt text](P9e1.png) 
-![alt text](f3.jpg) 
-![alt text](f2.jpg) 
-![alt text](f1.jpg)
+![alt text](Pics/P9e1.png) 
+![alt text](Pics/f3.jpg) 
+![alt text](Pics/f2.jpg) 
+![alt text](Pics/f1.jpg)
 
 ---
 
@@ -48,3 +48,4 @@ Eggshells from nearby bakeries are chemically converted into **calcium hydroxide
 | Mesh Sheets                      | Holds Ca(OH)₂ in neutralization zone | $9                   | Fabric or construction supply |
 
 **Total Estimated Cost: $280.75**
+
