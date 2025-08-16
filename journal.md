@@ -69,11 +69,12 @@ Running simulations on yields and reaction times helped me get a better picture 
 
 Here are the simulation outputs I generated:  
 
-![Pics/carbon dioxide concentration over time](image-1.png)  
-![Pics/sulfur dioxide concentration over time](image-2.png)  
-![Pics/every gas results p1](image-3.png)  
-![Pics/every gas results p2](image-4.png)  
-![Pics/every gas results p3](image-5.png)  
+![carbon dioxide concentration over time](Pics/image-1.png)  
+![sulfur dioxide concentration over time](Pics/image-2.png)  
+![every gas results p1](Pics/image-3.png)  
+![every gas results p2](Pics/image-4.png)  
+![every gas results p3](Pics/image-5.png)  
+
 ---
 
 ## Day 6 – System Assembly Design (7 hours)  
@@ -82,7 +83,7 @@ Here are the simulation outputs I generated:
 This was about arranging everything in a logical way. I designed a rectangular box layout in the model, adding in airflow paths and compartments.  
 
 I decided on fans and seals for controlled airflow and even mocked up spaces for sensors like temperature and gas concentration readers. Even though I’m not building anything physical, it felt oddly satisfying to think about how someone *could* assemble it from these blueprints.  
-![Pics/how to assemble the chambers](f2.jpg)  
+![how to assemble the chambers](Pics/f2.jpg)  
 
 ---
 
@@ -90,7 +91,7 @@ I decided on fans and seals for controlled airflow and even mocked up spaces for
 **Date:** July 20  
 
 This was a “visuals day.” I made a poster that showed how Calcify works, along with diagrams and an environmental impact chart. It was fun to arrange the elements in a way that felt neat but still casual. I wasn’t aiming for a pitch — just something that could explain my idea to anyone curious.  
-![Pics/fully 3d colored](P9e1.png)  
+![fully 3d colored](Pics/P9e1.png)  
 
 ---
 
@@ -100,7 +101,7 @@ This was a “visuals day.” I made a poster that showed how Calcify works, alo
 This was pure simulation work. I ran airflow models to see how the gas would interact with the Ca(OH)₂ sheets and adjusted the geometry for better flow.  
 
 It was a bit like tweaking a video game level so everything moves just right — except here, it was for clean air. I also added an imaginary “saturation sensor” to let the system know when it’s time to replace the neutralizing sheets.  
-![Pics/Expected readings](image.png)  
+![Expected readings](Pics/image.png)  
 
 ---
 
@@ -110,7 +111,8 @@ It was a bit like tweaking a video game level so everything moves just right —
 The last stretch. I organized all my notes, models, and calculations into a tidy GitHub repo. I added final blueprints, reaction documentation, and sourcing spreadsheets. I also did one last review of the 3D model to make sure all parts aligned and looked coherent.  
 
 Even though it’s just a personal project, seeing everything neatly documented gave me a sense of closure. It’s satisfying to think that if I ever wanted to share this idea with someone, it’s ready to go.  
-![Pics/fully 3d](f1.jpg)  
+![fully 3d](Pics/f1.jpg)  
 
 ---
+
 
